@@ -25,3 +25,8 @@ Desenvolver a página seguindo o [layout](https://ucarecdn.com/a3d9551d-8bb1-4e5
 Crie um Fork desse repositório e nos envie um **pull request**
 
 Não esqueça de ensinar como rodamos seu projeto :sunglasses:
+
+
+Para rodar o código:
+
+Apenas utilize webpack -w no terminal :)
